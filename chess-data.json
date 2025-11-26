@@ -9,18 +9,10 @@
   ],
   "games": [
     {
-      "id": "1764118740401",
+      "id": "1764118779990",
       "player1": "Sahib",
       "player2": "Tim",
-      "result": 1,
-      "date": "2025-11-26",
-      "gameType": "No timer"
-    },
-    {
-      "id": "1764118747742",
-      "player1": "Sahib",
-      "player2": "Tim",
-      "result": 1,
+      "result": -1,
       "date": "2025-11-26",
       "gameType": "No timer"
     },
